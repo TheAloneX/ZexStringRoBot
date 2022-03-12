@@ -27,7 +27,7 @@ Powered By [Zex](https://t.me/ZexNetwork)
     buttons = [
         [InlineKeyboardButton("♨️ Start Generating String", callback_data="generate")],
         [InlineKeyboardButton("🗯️ Help", callback_data="help"),],
-         [InlineKeyboardButton("💻 About", callback_data="about",],
+         [InlineKeyboardButton("💻 About", callback_data="about"),],
     ]
 
     # Help Message
