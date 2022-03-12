@@ -46,13 +46,13 @@ Powered By [Zex](https://t.me/ZexNetwork)
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to Manage group and generate pyrogram and telethon string session by @TeamDeeCode
+A telegram bot to Manage group and generate pyrogram and telethon string session by @ZexNetwork
 
-Source Code : [Click Here](https://github.com/AMANTYA1/String_gen)
+Source Code : [Click Here](https://github.com/TheAloneX/ZexStringRoBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @TeamDeeCode
+Developer : [𝙰𝚕𝚘𝚗𝚎 𝚇](t.me/TheAloneXD)
     """
