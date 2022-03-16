@@ -33,13 +33,6 @@ Telegram bot to generate pyrogram and telethon string session.
 
 > More features soon if suggested by you :)
 
-## To-Do
-
-> That's on you mainly...
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-
 ## Support
 
 Updates :- [Zex Updates](https://t.me/ZexUpdates)
